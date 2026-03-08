@@ -1,5 +1,5 @@
 import Hello from "./components/hello";
-import UserCard from "./components/usercard";
+import UserCard from "./components/UserCard";
 import Counter from "./components/counter";
 
 export default function Home() {
